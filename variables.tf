@@ -1,4 +1,5 @@
 variable "project_id" {
+  default     = "solid-altar-444910-c9"
   description = "The project ID to host the cluster in"
 }
 variable "cluster_name" {
